@@ -1,6 +1,8 @@
 I'm a computer science student from finland,
 - very passionate about full stack web development
-- interested in psychology, business and marketing
+- interested in software engineering and tech in general
+- as well as psychology, business and marketing
+- arts and sports
 - open to collaborate
 
 <p>
